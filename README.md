@@ -7,7 +7,6 @@ Interactive dashboard for viewing Polymarket binary YES/NO markets.
 ## Quick Start
 
 ```bash
-cd polymarket-task
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
